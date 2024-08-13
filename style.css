@@ -1,0 +1,17 @@
+header{
+    font-size: 50;
+    text-align: center;
+    color: red;
+    font-family: "Permanent Marker", cursive;
+}
+
+html{
+    background-color: black;
+}
+
+body{
+   color: white;
+   font: 200;
+   align-items: center;
+   text-align: center;
+}
